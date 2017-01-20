@@ -1,0 +1,11 @@
+/* 
+    Created on : 20.01.2017, 16:54:17
+    Author     : Aleksey Shutiy<a.shutiy@gmail.com>
+*/
+
+.tree-buttons {
+	float: right;
+}
+.tree-buttons > a{
+	margin-left: 10px;
+}

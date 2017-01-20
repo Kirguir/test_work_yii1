@@ -1,0 +1,10 @@
+# aux directories
+/web/assets
+/web/protected/runtime
+
+#config
+/web/protected/config/database.php
+
+# composer-pulled libraries
+# DO NOT INCLUDE composer.* here!!!
+/vendor

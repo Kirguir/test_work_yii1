@@ -1,0 +1,10 @@
+{
+    "name": "test/work",
+    "description": "Category tree project",
+    "config": {
+        "process-timeout": 600
+    },
+    "require": {
+        "yiisoft/yii": "1.1.*"
+    }
+}
